@@ -1,0 +1,495 @@
+{
+  "k": 8,
+  "probe": {
+    "stack_0": {
+      "task_balanced_acc": 44.84,
+      "control_balanced_acc": 14.29,
+      "selectivity": 30.55
+    },
+    "stack_1": {
+      "task_balanced_acc": 45.17,
+      "control_balanced_acc": 14.29,
+      "selectivity": 30.88
+    },
+    "stack_2": {
+      "task_balanced_acc": 53.35,
+      "control_balanced_acc": 16.67,
+      "selectivity": 36.68
+    },
+    "stack_3": {
+      "task_balanced_acc": 51.32,
+      "control_balanced_acc": 16.67,
+      "selectivity": 34.65
+    },
+    "stack_4": {
+      "task_balanced_acc": 52.79,
+      "control_balanced_acc": 16.67,
+      "selectivity": 36.12
+    },
+    "stack_5": {
+      "task_balanced_acc": 63.25,
+      "control_balanced_acc": 20.0,
+      "selectivity": 43.25
+    },
+    "stack_6": {
+      "task_balanced_acc": 53.72,
+      "control_balanced_acc": 16.67,
+      "selectivity": 37.05
+    },
+    "stack_7": {
+      "task_balanced_acc": 51.37,
+      "control_balanced_acc": 16.67,
+      "selectivity": 34.7
+    }
+  },
+  "experiment_1": {
+    "stack_0": {
+      "probe_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 96.16,
+          "seq_acc": 0.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 85.37,
+          "seq_acc": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 43.23,
+          "seq_acc": 0.0
+        }
+      ],
+      "random_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 99.99,
+          "seq_acc": 99.8
+        }
+      ]
+    },
+    "stack_1": {
+      "probe_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 99.97,
+          "seq_acc": 99.2
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 74.97,
+          "seq_acc": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 32.3,
+          "seq_acc": 0.0
+        }
+      ],
+      "random_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 99.99,
+          "seq_acc": 99.8
+        }
+      ]
+    },
+    "stack_2": {
+      "probe_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 99.99,
+          "seq_acc": 99.8
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 97.49,
+          "seq_acc": 58.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 54.37,
+          "seq_acc": 0.0
+        }
+      ],
+      "random_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 99.99,
+          "seq_acc": 99.8
+        }
+      ]
+    },
+    "stack_3": {
+      "probe_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 97.62,
+          "seq_acc": 63.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 44.2,
+          "seq_acc": 0.0
+        }
+      ],
+      "random_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 99.99,
+          "seq_acc": 99.8
+        }
+      ]
+    },
+    "stack_4": {
+      "probe_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 86.15,
+          "seq_acc": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 40.81,
+          "seq_acc": 0.0
+        }
+      ],
+      "random_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 99.99,
+          "seq_acc": 99.8
+        }
+      ]
+    },
+    "stack_5": {
+      "probe_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 99.93,
+          "seq_acc": 98.2
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 71.9,
+          "seq_acc": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 35.58,
+          "seq_acc": 0.0
+        }
+      ],
+      "random_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 99.99,
+          "seq_acc": 99.8
+        }
+      ]
+    },
+    "stack_6": {
+      "probe_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 96.12,
+          "seq_acc": 0.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 81.49,
+          "seq_acc": 0.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 38.11,
+          "seq_acc": 0.0
+        }
+      ],
+      "random_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 99.99,
+          "seq_acc": 99.8
+        }
+      ]
+    },
+    "stack_7": {
+      "probe_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 97.09,
+          "seq_acc": 54.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 43.39,
+          "seq_acc": 0.0
+        }
+      ],
+      "random_w": [
+        {
+          "alpha": 0.0,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.25,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.5,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 0.75,
+          "pos_acc": 100.0,
+          "seq_acc": 100.0
+        },
+        {
+          "alpha": 1.0,
+          "pos_acc": 99.99,
+          "seq_acc": 99.8
+        }
+      ]
+    }
+  }
+}
